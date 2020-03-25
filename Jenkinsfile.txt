@@ -1,2 +1,2 @@
-bat label: '', script: '''javac Simple.java
-java Simple'''
+javac Simple.java
+java Simple
