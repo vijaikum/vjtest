@@ -1,1 +1,2 @@
-bat label: '', script: 'java -version'
+bat label: '', script: '''javac Simple.java
+java Simple'''
